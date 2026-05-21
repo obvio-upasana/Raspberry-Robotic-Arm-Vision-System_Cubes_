@@ -19,7 +19,7 @@ This project implements an overhead vision-guided robotic sorting system. Using 
 
 * **Compute Unit:** Raspberry Pi 
 * **Vision:** USB Webcam OR Raspberry Pi Camera Module (V2 / HQ)
-* **Actuation:** Robotic Arm with 4+ Degrees of Freedom (DOF)
+* **Actuation:** Robotic Arm (Hardware)
 * **Objects:** 
   * 1x WHITE cube (with X, Y, N, Chep face markings)
   * 1x GREY cube (with X, Y, N, Chep face markings)
