@@ -39,3 +39,6 @@ The overhead camera monitors a centralized pick zone, while the arm operates rel
 │                                     │
 │        ← PICK ZONE →                │
 └─────────────────────────────────────┘
+```
+##   Output
+<img width="790" height="627" alt="Output001" src="https://github.com/user-attachments/assets/6893012b-48d8-41d4-9df2-514c546a518b" />
